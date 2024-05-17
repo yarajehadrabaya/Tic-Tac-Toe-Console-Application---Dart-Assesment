@@ -5,10 +5,6 @@
 ### Authors:
 * 	👩💻Yara Jehad Rabaya
 _______________________________________________________________________________________________________________________
-# Very important Note :
-I have answered the bonus question. Please pay attention to the code highlighted with comment marks
-_______________________________________________________________________________________________________________________
-
 ### How we run it ?
 #### 1-Game Board:  
 Implement a 3x3 grid to represent the Tic-Tac-Toe board.
